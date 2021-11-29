@@ -1,0 +1,1 @@
+# depolyment & mint script
