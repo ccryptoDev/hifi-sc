@@ -10,7 +10,7 @@ const mintNft = async () => {
         mnemonic: {
             phrase: mnemonic
         },
-        providerOrUrl: "https://data-seed-prebsc-1-s1.binance.org:8545"
+        providerOrUrl: "https://bsc-dataseed.binance.org/"
     });
     const web3 = new Web3(provider);
     const contract = new web3.eth.Contract(factory.abi, contractAddr);

@@ -9,6 +9,8 @@ package-lock.json
 /artifacts
 /cache
 
+secrets.json
+
 # production
 /build
 
